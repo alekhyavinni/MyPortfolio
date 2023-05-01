@@ -1,0 +1,52 @@
+header{
+    background-color:rgb(72, 71, 71);
+    padding: 20px;
+    padding-left: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: fixed;
+    width: 100vw;;
+}
+   
+
+
+header h1{
+    background-color:lightblue;
+    padding-left: 30px;
+    width: 200px;
+    margin-top:10px;
+}
+
+
+header a{
+  float:right;
+  color:lightblue;
+  background-color:rgb(72, 71, 71);
+}
+img{
+    width: 100vw;
+    height: 400px;
+}
+
+
+.content {
+    width: 75%;
+    display:inline-block;
+    margin-left: 20px;
+}
+#aboutme h1{
+color: rgb(51, 51, 94);
+  width: 150px;
+  height: 100px;
+  text-align: center;
+  padding: 10px;
+  font-size:40px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-right: 5px solid rgb(51, 51, 94);
+  margin: 10px;
+}
+
+
+p{
+    float: inline-end;
+}
+
