@@ -29,7 +29,8 @@ Please refer to the following screenshot image link , for the full view of the w
 # Link to the repository and deployed project
 Please refer to the following repository link to access the project
 
-https://github.com/alekhyavinni/Portfolio.git
+https://github.com/alekhyavinni/MyPortfolio.git
+https://alekhyavinni.github.io/MyPortfolio/
 
 # license
 Please refer to the License in repo
